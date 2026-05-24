@@ -187,4 +187,4 @@ Para dúvidas ou sugestões, abra uma [issue](https://github.com/seu-usuario/IMC
 
 ---
 
-**Status: Em Desenvolvimento 🚧**
+**Status: Finalizado 🎉**
