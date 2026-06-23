@@ -164,9 +164,6 @@ npx tsc --noEmit
 
 - **Anthony de Melo**
 - **Pedro Sales**
-
-**Professor:** Karithon Gomes
-
 ---
 
 ## 🤝 Contribuições
